@@ -1438,7 +1438,7 @@ let cards = [
 		author: 'szulima',
 		githubLink: 'https://github.com/szulima'
 	},
-		
+
     {
     	artName: "Traffic Lights",
       	pageLink: "./Art/Harry/index.html",
@@ -1453,13 +1453,20 @@ let cards = [
 	      author: "Rahulkumar Jha",
 	      githubLink: "https://github.com/Rahul240499"
      },
-  {
-	artName: "Ghost Stealth Text",
-	pageLink: "./Art/Alara Joel/index.html",
-	imageLink: "./Art/Alara Joel/stealth ghost.png",
-	author: "Alara Joel",
-	githubLink: "https://github.com/stealthman22"
-}
+  	{
+				artName: "Ghost Stealth Text",
+				pageLink: "./Art/Alara Joel/index.html",
+				imageLink: "./Art/Alara Joel/stealth ghost.png",
+				author: "Alara Joel",
+				githubLink: "https://github.com/stealthman22"
+		},
+		{
+		 		artName: "emojishake",
+		 		pageLink: "./Art/1minshinkhant/index.html",
+		 		imageLink: "./Art/1minshinkhant/background3.jpg",
+		 		author: "minshinkhant",
+		 		githubLink: "https://github.com/minshinkhant"
+	 }
 ];
 
 // +--------------------------------------------------------------------------------+
